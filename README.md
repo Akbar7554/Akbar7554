@@ -55,8 +55,8 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 - and also try to implement chart by data wise and try to payment system.
 
 ### Live Link: https://survey-master-6e8c9.web.app/
-### Frontend Github Repository : 
-### Backend Github Repository : 
+### Frontend Github Repository : https://github.com/Akbar7554/survey-master-client
+### Backend Github Repository : https://github.com/Akbar7554/survey-master-server
 
 
 # BD Post
@@ -70,8 +70,8 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 - job request route show some data where job provider bid request accept and delete.
 
 ### Live Link: https://bd-post-e405e.web.app/
-### Frontend Github Repository : 
-### Backend Github Repository : 
+### Frontend Github Repository : https://github.com/Akbar7554/BD-post-client
+### Backend Github Repository : https://github.com/Akbar7554/BD-post-server
 
 
 # AUTOMOTIVE
@@ -85,8 +85,8 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 - add product button has some input field and add button. here user field all the valid information and click the button. user create cart. user can update information by clicking update route. update route has some field information. user can update all information. 
 
 ### Live Link: https://automotive-authentication.web.app/
-### Frontend Github Repository : 
-### Backend Github Repository : 
+### Frontend Github Repository : https://github.com/Akbar7554/Automotive-client
+### Backend Github Repository : https://github.com/Akbar7554/Automotive-server
 
 
 
