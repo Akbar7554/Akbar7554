@@ -17,8 +17,7 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 * 🤝  I'm open to collaborating on MERN Projects
 * ⚡  I Like to play Football.
 
-<a href="https://www.github.com/Akbar7554" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Akbar7554?logo=github&style=for-the-badge&color=10b981&labelColor=1e3a8a" /></a>
+
 
 ### Skills
 
