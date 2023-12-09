@@ -44,4 +44,51 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 
 <b>Top Projects</b>
 
+
+# SURVEY MASTER
+
+## Features : 
+- In this project i try to implement survey related website. where user can see survey and like dislike and report on a survey.
+- Build Different role admin, surveyor and pro user. all role have different permission in this site.
+- surveyor can create a survey and update or delete a survey. surveyor role is provided by admin.
+- In admin role admin can change the role of user to admin and surveyor. and see voting information of users.
+- and also try to implement chart by data wise and try to payment system.
+
+### Live Link: https://survey-master-6e8c9.web.app/
+### Frontend Github Repository : 
+### Backend Github Repository : 
+
+
+# BD Post
+
+## Features : 
+- In this project a user first time see a home page where a navbar banner , a tab wise data , two section and a navbar.
+- User see navbar add job and many more route . if user click on the add job or any other route it will redirect user into the login page. user see don't have an account toggle register route.
+- if user register login or register successfully it will redirect user into the secure route.
+- user go add job route it will go this route and a form . if user add the job it will redirect user into the my posted jobs. here user can see all jobs.
+- user see his her data in tab data wise. tab data card have a bid button . if user click bid button it will go another page . user see some information and a form and bid now button. if user click bid now button it will go my bids page user see her bid information.
+- job request route show some data where job provider bid request accept and delete.
+
+### Live Link: https://bd-post-e405e.web.app/
+### Frontend Github Repository : 
+### Backend Github Repository : 
+
+
+# AUTOMOTIVE
+
+## Features : 
+- In this project i build a website which name is automotive website.
+- In this project user enter the website user see a home page where navbar, banner, 6 cart section, two extra section and a footer.
+- Each Banner has some valid data which is json format. If the user click on any brand user go another page which is product details page. where some carousel where image has shown and see some cart where two button one is view option another is edit option. If user click any button user see a login page.
+- Now clicking any button user see login page this page is login page where user can authenticate by email or gmail. If user not login user see register page and this page user see some input field. if user registered successfully. this time user go view or update page.
+- view page has some data and see add to cart button. user click the button the cart show in my cart route. here user delete the cart which he selected one.
+- add product button has some input field and add button. here user field all the valid information and click the button. user create cart. user can update information by clicking update route. update route has some field information. user can update all information. 
+
+### Live Link: https://automotive-authentication.web.app/
+### Frontend Github Repository : 
+### Backend Github Repository : 
+
+
+
+
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
