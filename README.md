@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Akbar
 =============================================================================================================================
 
-Software Engineer
+-----------------------Software Engineer----------------
 -----------------
 
 Graduate of Computer Science & Engineering with working across the Full-Stack of Software Development(MERN).To work in a firm with a professional work driven environment where I can utilize and apply my skill, knowledge which would enable me as a fresh graduate to grow while fulfilling organizational goals.
