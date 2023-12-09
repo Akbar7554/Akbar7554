@@ -39,7 +39,6 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 
 <a href="http://www.github.com/Akbar7554"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar7554&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Akbar7554"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Akbar7554&bg_color=1e3a8a&color=ffffff&line=10b981&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Akbar7554" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
