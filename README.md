@@ -57,6 +57,7 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 ### Live Link: https://survey-master-6e8c9.web.app/
 ### Frontend Github Repository : <a target="_blank">https://github.com/Akbar7554/survey-master-client</a>
 ### Backend Github Repository : https://github.com/Akbar7554/survey-master-server
+#### Technology that i use : Html, css, tailwind, react, mui, node js, mongodb, express js, firebase
 
 
 # BD Post
@@ -72,6 +73,7 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 ### Live Link: https://bd-post-e405e.web.app/
 ### Frontend Github Repository : https://github.com/Akbar7554/BD-post-client
 ### Backend Github Repository : https://github.com/Akbar7554/BD-post-server
+#### Technology that i use : Html, css, tailwind, react, node js, mongodb, express js, firebase
 
 
 # AUTOMOTIVE
@@ -87,6 +89,7 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 ### Live Link: https://automotive-authentication.web.app/
 ### Frontend Github Repository : https://github.com/Akbar7554/Automotive-client
 ### Backend Github Repository : https://github.com/Akbar7554/Automotive-server
+#### Technology that i use : Html, css, tailwind, react, node js, mongodb, express js, firebase
 
 
 
