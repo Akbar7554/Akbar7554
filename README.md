@@ -55,7 +55,7 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 - and also try to implement chart by data wise and try to payment system.
 
 ### Live Link: https://survey-master-6e8c9.web.app/
-### Frontend Github Repository : https://github.com/Akbar7554/survey-master-client
+### Frontend Github Repository : <a target="_blank">https://github.com/Akbar7554/survey-master-client</a>
 ### Backend Github Repository : https://github.com/Akbar7554/survey-master-server
 
 
