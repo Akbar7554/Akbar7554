@@ -35,7 +35,7 @@ Graduate of Computer Science & Engineering with working across the Full-Stack of
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Akbar7554"><img src="https://github-readme-stats.vercel.app/api?username=Akbar7554&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Akbar7554's GitHub stats" /></a>
+<a href="http://www.github.com/Akbar7554"><img src="https://github-readme-stats.vercel.app/api?username=Akbar7554&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
 
 <a href="http://www.github.com/Akbar7554"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar7554&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
