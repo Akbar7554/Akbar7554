@@ -41,12 +41,12 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 <a href="https://github.com/Akbar7554" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Top Projects
+# Top Projects
 
 
-### SURVEY MASTER
+## SURVEY MASTER
 
-## Features : 
+### Features : 
 - In this project, I try to implement a survey-related website. where users can see surveys, like, dislike, and report on them.
 - Build different roles for admin, surveyor, and pro users. All roles have different permissions on this site.
 - A surveyor can create a survey and update or delete it. The surveyor role is provided by admin.
@@ -59,15 +59,15 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 ### Technology that i use : Html, css, tailwind, react, mui, node js, mongodb, express js, firebase
 
 
-# BD Post
+## BD Post
 
-## Features : 
-- In this project a user first time see a home page where a navbar banner , a tab wise data , two section and a navbar.
-- User see navbar add job and many more route . if user click on the add job or any other route it will redirect user into the login page. user see don't have an account toggle register route.
-- if user register login or register successfully it will redirect user into the secure route.
-- user go add job route it will go this route and a form . if user add the job it will redirect user into the my posted jobs. here user can see all jobs.
-- user see his her data in tab data wise. tab data card have a bid button . if user click bid button it will go another page . user see some information and a form and bid now button. if user click bid now button it will go my bids page user see her bid information.
-- job request route show some data where job provider bid request accept and delete.
+### Features : 
+- In this project, a user first sees a home page with a navbar banner, tab-wise data, two sections, and a navbar.
+- The user sees the navbar, adds jobs, and takes numerous other routes. If the user clicks on the Add Job or any other route, it will redirect them to the login page. user sees don't have an account toggle register route.
+- If the user registers or registers successfully, it will redirect them to the secure route.
+- user go add job route It will go this route and a form. If the user adds the job, it will redirect the user to my posted jobs. Here, users can see all jobs.
+- The user sees his or her data in tab data-wise. tab data card has a bid button. If the user clicks the bid button, they will be taken to another page. The user sees some information, a form, and a bid now button. If the user clicks the bid now button, she will be taken to the my bids page, where she can view her bid information.
+- job request route shows some data where job provider bid request accept and delete.
 
 ### Live Link: https://bd-post-e405e.web.app/
 ### Frontend Github Repository : https://github.com/Akbar7554/BD-post-client
@@ -75,15 +75,15 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 ### Technology that i use : Html, css, tailwind, react, node js, mongodb, express js, firebase
 
 
-# AUTOMOTIVE
+## AUTOMOTIVE
 
-## Features : 
-- In this project i build a website which name is automotive website.
-- In this project user enter the website user see a home page where navbar, banner, 6 cart section, two extra section and a footer.
-- Each Banner has some valid data which is json format. If the user click on any brand user go another page which is product details page. where some carousel where image has shown and see some cart where two button one is view option another is edit option. If user click any button user see a login page.
-- Now clicking any button user see login page this page is login page where user can authenticate by email or gmail. If user not login user see register page and this page user see some input field. if user registered successfully. this time user go view or update page.
-- view page has some data and see add to cart button. user click the button the cart show in my cart route. here user delete the cart which he selected one.
-- add product button has some input field and add button. here user field all the valid information and click the button. user create cart. user can update information by clicking update route. update route has some field information. user can update all information. 
+### Features : 
+- In this project, I build a website, which is called an automotive website.
+- In this project, the user enters the website and sees a home page with a navbar, banner, six cart sections, two extra sections, and a footer.
+- Each banner has some valid data, which is in JSON format. If the user clicks on any brand, they go to another page, which is the product details page. where some carousel where image has shown and see some cart where two buttons one is view option and another is edit option. If users click any button, they will see a login page.
+- Now, by clicking any button, the user is taken to the login page. This page is a login page where users can authenticate by email or Gmail. If the user does not log in, they will be directed to the register page, where they will see some input fields. if the user registered successfully. This time, users go to the view or update page.
+- The view page has some data, and you can see the add to cart button. user clicks the button, the cart will show in my cart route. Here, the user deletes the cart in which he selected one.
+- The add product button has some input fields and an add button. Here, the user fields all the valid information and clicks the button. user creates a cart. The user can update information by clicking the update route. The updated route has some field information. The user can update all information.
 
 ### Live Link: https://automotive-authentication.web.app/
 ### Frontend Github Repository : https://github.com/Akbar7554/Automotive-client
