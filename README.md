@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <strong>Software Engineer</strong>
 -----------------
 
-Graduate of Computer Science & Engineering with working across the Full-Stack of Software Development(MERN).To work in a firm with a professional work driven environment where I can utilize and apply my skill, knowledge which would enable me as a fresh graduate to grow while fulfilling organizational goals.
+Graduate of Computer Science and Engineering with working across the Full-Stack of Software Development (MERN) To work in a firm with a professional, work-driven environment where I can utilise and apply my skills and knowledge, which would enable me as a fresh graduate to grow while fulfilling organisational goals.
 
 * 🌍  I'm based in Chittagong
 * 🖥️  See my portfolio at [My Website](http://www.akbar.com)
