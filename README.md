@@ -44,14 +44,14 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 <b>Top Projects</b>
 
 
-# SURVEY MASTER
+### SURVEY MASTER
 
 ## Features : 
-- In this project i try to implement survey related website. where user can see survey and like dislike and report on a survey.
-- Build Different role admin, surveyor and pro user. all role have different permission in this site.
-- surveyor can create a survey and update or delete a survey. surveyor role is provided by admin.
-- In admin role admin can change the role of user to admin and surveyor. and see voting information of users.
-- and also try to implement chart by data wise and try to payment system.
+- In this project, I try to implement a survey-related website. where users can see surveys, like, dislike, and report on them.
+- Build different roles for admin, surveyor, and pro users. All roles have different permissions on this site.
+- A surveyor can create a survey and update or delete it. The surveyor role is provided by admin.
+- In the admin role, admin can change the roles of the user to admin and surveyor. and see the voting information of users.
+- and also try to implement charts data-wise and try to implement a payment system.
 
 ### Live Link: https://survey-master-6e8c9.web.app/
 ### Frontend Github Repository : <a target="_blank">https://github.com/Akbar7554/survey-master-client</a>
