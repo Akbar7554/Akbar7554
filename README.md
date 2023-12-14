@@ -41,7 +41,7 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 <a href="https://github.com/Akbar7554" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Projects</b>
+### Top Projects
 
 
 ### SURVEY MASTER
