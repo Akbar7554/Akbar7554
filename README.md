@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/n65J49f/Untitled.png" align="center" alt="coding">
 
-<p align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Akbar</p>
+<p align="center">👋 I am Akbar</p>
 =============================================================================================================================
 
 <strong>Software Engineer</strong>
