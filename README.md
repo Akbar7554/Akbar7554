@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/n65J49f/Untitled.png" align="center" alt="coding">
+<img align="center" src="https://i.ibb.co/n65J49f/Untitled.png" align="center" alt="coding">
 
 <p align="center">👋 I am Akbar</p>
 =============================================================================================================================
