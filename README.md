@@ -18,7 +18,7 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 
 
-<strong align="center">### Skills</strong>
+<p align="center">### Skills</p>
 
 
 <p align="center">
