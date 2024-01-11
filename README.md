@@ -28,7 +28,6 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 
 
-### Badges
 
 <strong>My GitHub Stats</strong>
 
