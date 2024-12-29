@@ -89,5 +89,10 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 
 
+![snake](https://raw.githubusercontent.com/{your-username}/{your-username}/output/github-contribution-snake.svg)
+
+
+
+
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
