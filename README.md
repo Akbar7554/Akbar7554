@@ -13,6 +13,15 @@
   </p>
 </div>
 
+---
+
+* 🌏  I'm based in Chittagong
+* 🖥️  See my portfolio at [My Website](https://my-portfolio-ebon-mu-76.vercel.app/)
+* 🚀  I'm currently working on [Medi-Vista](http://github.com/Akbar7554/Medi-Vista)
+* 🧠  I'm learning Next Js & Mui
+* 🤝  I'm open to collaborating on MERN Projects
+* ⚽  I Like to play Football.
+
 <div align="center">
   <a href="mailto:Akbarhossain.4335@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,17 +36,6 @@
        onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
 </p>
 </div>
-
----
-
-
-
-* 🌏  I'm based in Chittagong
-* 🖥️  See my portfolio at [My Website](https://my-portfolio-ebon-mu-76.vercel.app/)
-* 🚀  I'm currently working on [Medi-Vista](http://github.com/Akbar7554/Medi-Vista)
-* 🧠  I'm learning Next Js & Mui
-* 🤝  I'm open to collaborating on MERN Projects
-* ⚽  I Like to play Football.
 
 ---
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
