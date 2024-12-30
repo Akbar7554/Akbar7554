@@ -57,12 +57,8 @@ Let's collaborate and create something amazing together! 🤝
 
 
 ---
-
-
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
-
 <div align="center">
-
 <table>
   <tr>
     <td align="center"><strong>🌟 Frontend</strong></td>
@@ -89,9 +85,7 @@ Let's collaborate and create something amazing together! 🤝
     </td>
   </tr>
 </table>
-
 </div>
-
 ---
 
 
