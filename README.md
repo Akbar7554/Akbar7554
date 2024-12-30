@@ -59,7 +59,7 @@ Let's collaborate and create something amazing together! 🤝
 ---
 
 ### 🛠️ My Tech Stack:
-<h3 align="center">🛠️ My Tech Stack:</h3>
+<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
 
 <div align="center">
 
