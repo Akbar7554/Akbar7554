@@ -13,8 +13,6 @@
   </p>
 </div>
 
----
-
 * 🌏  I'm based in Chittagong
 * 🖥️  See my portfolio at [My Website](https://my-portfolio-ebon-mu-76.vercel.app/)
 * 🚀  I'm currently working on [Medi-Vista](http://github.com/Akbar7554/Medi-Vista)
