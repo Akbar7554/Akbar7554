@@ -36,14 +36,10 @@
 
 * 🌏  I'm based in Chittagong
 * 🖥️  See my portfolio at [My Website](https://my-portfolio-ebon-mu-76.vercel.app/)
-* 📧  You can contact me at [Akbarhossain.puc@gmail.com](mailto:Akbarhossain.puc@gmail.com)
 * 🚀  I'm currently working on [Medi-Vista](http://github.com/Akbar7554/Medi-Vista)
 * 🧠  I'm learning Next Js & Mui
 * 🤝  I'm open to collaborating on MERN Projects
 * ⚽  I Like to play Football.
-
-
-
 
 ---
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
