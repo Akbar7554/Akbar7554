@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
----
 
 <img align="center" src="https://i.ibb.co/n65J49f/Untitled.png" align="center" alt="coding">
 
