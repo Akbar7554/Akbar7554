@@ -22,8 +22,9 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,vite,nextjs" /> <br />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,nextjs" /> <br />
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,express" /><br />
+    <img src="https://skillicons.dev/icons?i=js,ts,c,py" /><br />
     <img src="https://skillicons.dev/icons?i=vercel,github,git,firebase,figma" />
   </a>
 </p>
