@@ -14,6 +14,10 @@
 
 <br/>
 
+<div align="center">
+  <a href="Akbarhossain.4335@gmail.com"></a>
+  <img src="https://img.sheilds.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+</div>
 
 ---
 
