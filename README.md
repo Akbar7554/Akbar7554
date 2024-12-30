@@ -22,7 +22,6 @@
 
 ---
 
-
 <div>
   <p style="font-size: 18px; font-family: Arial, sans-serif;">
     As a graduate in <strong>Computer Science and Engineering</strong> with experience in <strong>Full-Stack Software Development (MERN)</strong>, I am eager to work in a professional and dynamic environment 💼.
@@ -31,7 +30,6 @@
     Let's collaborate and create something amazing together! 🤝
   </p>
 </div>
-
 
 * 🌏  I'm based in Chittagong
 * 🖥️  See my portfolio at [My Website](https://my-portfolio-ebon-mu-76.vercel.app/)
