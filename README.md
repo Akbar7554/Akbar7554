@@ -26,7 +26,10 @@
 <strong>Mern Stack Developer</strong>
 -----------------
 
-Graduate of Computer Science and Engineering with working across the Full-Stack of Software Development (MERN) To work in a firm with a professional, work-driven environment where I can utilise and apply my skills and knowledge, which would enable me as a fresh graduate to grow while fulfilling organisational goals.
+As a graduate in Computer Science and Engineering with experience in Full-Stack Software Development (MERN), I am eager to work in a professional and dynamic environment. 💼
+I aim to apply my skills and knowledge while continuously growing and contributing to the success of the organization. 🌱
+As a fresh graduate, I am enthusiastic about learning and making a meaningful impact on the company's goals. 🎯
+Let's collaborate and create something amazing together! 🤝
 
 * 🌏  I'm based in Chittagong
 * 🖥️  See my portfolio at [My Website](https://my-portfolio-ebon-mu-76.vercel.app/)
