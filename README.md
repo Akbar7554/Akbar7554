@@ -12,7 +12,6 @@
 
 <h3 align="center">A Passionate software developer from Bangladesh</h3>
 
-<br/>
 
 <div align="center">
   <a href="mailto:Akbarhossain.4335@gmail.com" target="_blank">
