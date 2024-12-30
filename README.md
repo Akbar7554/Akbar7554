@@ -23,7 +23,7 @@
 
 
 
-<strong>Software Engineer</strong>
+<strong>Mern Stack Developer</strong>
 -----------------
 
 Graduate of Computer Science and Engineering with working across the Full-Stack of Software Development (MERN) To work in a firm with a professional, work-driven environment where I can utilise and apply my skills and knowledge, which would enable me as a fresh graduate to grow while fulfilling organisational goals.
