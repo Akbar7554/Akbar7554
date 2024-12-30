@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center" style="background-color: #282c34; padding: 20px; border-radius: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Hi+There!+👋;+I'm+Akbar+hossain!&color=%2300BFFF" 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&lines=Assala+mualaikum!+👋;+I'm+Akbar+hossain!&color=%2300BFFF" 
        alt="Typing Text"/>
 </h1>
 
