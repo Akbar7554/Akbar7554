@@ -19,8 +19,6 @@
   </a>
 </div>
 
-<img align="center" src="https://i.ibb.co/n65J49f/Untitled.png" align="center" alt="coding">
-
 ---
 <h2 align="center">🚀 MERN Stack Developer 💻</h2>
 
