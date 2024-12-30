@@ -16,9 +16,10 @@
 
 <div align="center">
   <a href="mailto:Akbarhossain.4335@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Contact%20Me-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Contact Me via Gmail" />
   </a>
 </div>
+
 
 
 ---
