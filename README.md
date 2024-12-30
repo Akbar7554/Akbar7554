@@ -24,33 +24,37 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 ### 🛠️ My Tech Stack:
 <div align="center">
 
-<!-- Frontend -->
-<strong>🌟 Frontend</strong>
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,nextjs" alt="Frontend Skills" style="max-width: 100%; height: auto;" />
-</p>
-
-<!-- Backend -->
-<strong>⚙️ Backend</strong>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,firebase" alt="Backend Skills" style="max-width: 100%; height: auto;" />
-</p>
-
-<!-- Programming Languages -->
-<strong>🧠 Programming Languages</strong>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,c,py" alt="Programming Languages" style="max-width: 100%; height: auto;" />
-</p>
-
-<!-- Tools & Platforms -->
-<strong>🛠️ Tools & Platforms</strong>
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,github,git,firebase,figma" alt="Tools and Platforms" style="max-width: 100%; height: auto;" />
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>🌟 Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,nextjs" alt="Frontend Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,firebase" alt="Backend Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🧠 Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,c,py" alt="Programming Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🛠️ Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel,github,git,firebase,figma" alt="Tools and Platforms" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+
 
 
 
