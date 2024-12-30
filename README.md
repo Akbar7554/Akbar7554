@@ -24,7 +24,7 @@
 ---
 <h2 align="center">🚀 MERN Stack Developer 💻</h2>
 
-<div align="center">
+<div>
   <p style="font-size: 18px; font-family: Arial, sans-serif;">
     As a graduate in <strong>Computer Science and Engineering</strong> with experience in <strong>Full-Stack Software Development (MERN)</strong>, I am eager to work in a professional and dynamic environment 💼.
     I aim to apply my skills and knowledge while continuously growing and contributing to the success of the organization 🌱.
