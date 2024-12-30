@@ -31,9 +31,8 @@
 
 
 
-
+---
 <strong>Mern Stack Developer</strong>
------------------
 
 <div align="center">
   <p style="font-size: 18px; font-family: Arial, sans-serif;">
