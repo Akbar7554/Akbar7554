@@ -19,6 +19,12 @@
     <img src="https://img.shields.io/badge/Email-Gmail-orange?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 
 
 
