@@ -59,6 +59,8 @@ Let's collaborate and create something amazing together! 🤝
 ---
 
 ### 🛠️ My Tech Stack:
+<h3 align="center">🛠️ My Tech Stack:</h3>
+
 <div align="center">
 
 <table>
