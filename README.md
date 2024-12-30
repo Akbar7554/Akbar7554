@@ -18,16 +18,6 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 
 
-### Skills
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,nextjs" /> <br />
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,express" /><br />
-    <img src="https://skillicons.dev/icons?i=js,ts,c,py" /><br />
-    <img src="https://skillicons.dev/icons?i=vercel,github,git,firebase,figma" />
-  </a>
-</p>
 
 ---
 
@@ -62,47 +52,6 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
 
 ---
 
-<div style="text-align: center;">
-  <h2>🌟 My Tech Stack</h2>
-
-  <!-- Frontend -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html" 
-         alt="HTML" 
-         style="width: 60px; transition: transform 0.3s, filter 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
-    <img src="https://skillicons.dev/icons?i=css" 
-         alt="CSS" 
-         style="width: 60px; transition: transform 0.3s, filter 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
-    <!-- Add more icons similarly -->
-  </div>
-
-  <!-- Backend -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs" 
-         alt="Node.js" 
-         style="width: 60px; transition: transform 0.3s, filter 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
-    <!-- Add more icons similarly -->
-  </div>
-
-  <!-- Tools -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git" 
-         alt="Git" 
-         style="width: 60px; transition: transform 0.3s, filter 0.3s;" 
-         onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.5)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
-    <!-- Add more icons similarly -->
-  </div>
-</div>
 
 
 
