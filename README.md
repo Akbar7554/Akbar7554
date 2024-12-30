@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Akbar7554.Akbar7554" alt="Visitor Badge" />
 </p>
 
