@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akbar7554.Akbar7554" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akbar7554.Akbar7554" alt="Visitor Badge" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </p>
 
 <img align="center" src="https://i.ibb.co/n65J49f/Untitled.png" align="center" alt="coding">
