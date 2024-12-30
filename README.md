@@ -29,6 +29,21 @@ Graduate of Computer Science and Engineering with working across the Full-Stack 
   </a>
 </p>
 
+---
+
+### 🛠️ My Tech Stack:
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,nextjs" alt="Frontend Skills" /> <br />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase,express" alt="Backend Skills" /> <br />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,c,py" alt="Languages" /> <br />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=vercel,github,git,firebase,figma" alt="Tools" />
+</p>
+
+---
 
 
 
