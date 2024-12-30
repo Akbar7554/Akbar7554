@@ -75,7 +75,6 @@
   </tr>
 </table>
 </div>
----
 
 <strong>My GitHub Stats</strong>
 
