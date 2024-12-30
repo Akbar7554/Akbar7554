@@ -31,7 +31,7 @@
 
 
 ---
-<strong>Mern Stack Developer</strong>
+<h2 align="center">🚀 MERN Stack Developer 💻</h2>
 
 <div align="center">
   <p style="font-size: 18px; font-family: Arial, sans-serif;">
