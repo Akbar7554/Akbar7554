@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akbar7554.Akbar7554" alt="Visitor Badge" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+<p align="center" style="background-color: #f0f8ff; padding: 20px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); max-width: 80%; margin: auto;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akbar7554.Akbar7554" alt="Visitor Badge" 
+       style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.3s, filter 0.3s;" 
+       onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
 </p>
+
 
 <img align="center" src="https://i.ibb.co/n65J49f/Untitled.png" align="center" alt="coding">
 
