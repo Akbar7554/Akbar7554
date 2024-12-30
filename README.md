@@ -1,5 +1,5 @@
 <h2 align="center">🚀 MERN Stack Developer 💻</h2>
-
+---
 <h1 align="center" style="background-color: #282c34; padding: 20px; border-radius: 10px;">  
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=5000&lines=Assalamualaikum!;+Hi,👋+I’m+Akbar+Hossain!&color=%2300BFFF" 
        alt="Typing Text"/>
