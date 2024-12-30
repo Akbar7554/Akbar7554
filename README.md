@@ -83,14 +83,6 @@ Let's collaborate and create something amazing together! 🤝
 </div>
 ---
 
-
-
-
-
-
-
-
-
 <strong>My GitHub Stats</strong>
 
 <a href="http://www.github.com/Akbar7554"><img src="https://github-readme-stats.vercel.app/api?username=Akbar7554&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
