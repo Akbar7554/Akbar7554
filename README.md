@@ -90,7 +90,6 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 </div>
 
-
 <br/>
 <hr/>
 
@@ -104,9 +103,6 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 <hr/>
 
-
-
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -117,18 +113,10 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
   <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar7554&stroke=c9d1d9&background=2F3C7E&ring=D3C5E5&fire=A1D6E2&currStreakNum=A1D6E2&currStreakLabel=A1D6E2&Border=FBEAEB&text_color=FBEAEB&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" alt="Akbar7554's Streak" />
   <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=D3C5E5&text_color=FBEAEB&icon_color=39d353&bg_color=2F3C7E&Border=FBEAEB&hide_border=false&layout=compact" alt="Akbar7554's Top Languages" />
 </p>
-
-
 <br/><br/>
-
-
 <br/>
-
-
 <hr/>
-
 <h2 align="center">🔥 My Popular Projects 🔥</h2>
-
 <!-- Project 1: StyleHaven -->
 <div style="border: 2px solid #D3C5E5; border-radius: 10px; padding: 20px; background-color: #2F3C7E; color: #FBEAEB; margin: 30px 0;">
 
@@ -249,20 +237,17 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 </div>
 
-
-
-
 # Top Projects
 
 ## SURVEY MASTER
 
 ### Features
 
-- In this project, I try to implement a survey-related website. where users can see surveys, like, dislike, and report on them.
-* Build different roles for admin, surveyor, and pro users. All roles have different permissions on this site.
-* A surveyor can create a survey and update or delete it. The surveyor role is provided by admin.
-* In the admin role, admin can change the roles of the user to admin and surveyor. and see the voting information of users.
-* and also try to implement charts data-wise and try to implement a payment system.
+- Different user roles: Admin, Surveyor, and Pro, each with unique permissions.
+* Surveyors can create, update, and delete surveys. Surveyor roles are assigned by the Admin.
+* Admins can manage user roles by changing them to Admin or Surveyor, as well as view detailed voting information.
+* Data visualization through charts, providing insights into survey results.
+* Implementation of a payment system for premium features.
 
 ### Live Link: <https://survey-master-6e8c9.web.app/>
 
@@ -276,12 +261,14 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 ### Features
 
-- In this project, a user first sees a home page with a navbar banner, tab-wise data, two sections, and a navbar.
-* The user sees the navbar, adds jobs, and takes numerous other routes. If the user clicks on the Add Job or any other route, it will redirect them to the login page. user sees don't have an account toggle register route.
-* If the user registers or registers successfully, it will redirect them to the secure route.
-* user go add job route It will go this route and a form. If the user adds the job, it will redirect the user to my posted jobs. Here, users can see all jobs.
-* The user sees his or her data in tab data-wise. tab data card has a bid button. If the user clicks the bid button, they will be taken to another page. The user sees some information, a form, and a bid now button. If the user clicks the bid now button, she will be taken to the my bids page, where she can view her bid information.
-* job request route shows some data where job provider bid request accept and delete.
+-   The user sees a navbar with various routes, including an "Add Job" option. If the user clicks on "Add Job" or any other route that requires authentication, they will be redirected to the login page. A toggle link is provided for users without an account, directing them to the registration page. 
+* Upon successful registration, the user is redirected to a secure route.
+* Once logged in, the user can access the "Add Job" route, where they can fill out a form to post a job. After submitting the job, they are redirected to the "My Posted Jobs" page, where they can view all their posted jobs.
+* The user’s data is displayed in a tab-wise format, with each tab containing a data card and a "Bid" button. Clicking the "Bid" button takes the user to another page with additional information, a form, and a "Bid Now" button. Upon clicking "Bid Now," the user is redirected to the "My Bids" page, where they can view all their bids.
+* The "Job Request" route displays data related to job provider bid requests, where the job provider can accept or delete the bid.
+
+
+
 
 ### Live Link: <https://bd-post-e405e.web.app/>
 
@@ -295,12 +282,11 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 ### Features
 
-- In this project, I build a website, which is called an automotive website.
-* In this project, the user enters the website and sees a home page with a navbar, banner, six cart sections, two extra sections, and a footer.
-* Each banner has some valid data, which is in JSON format. If the user clicks on any brand, they go to another page, which is the product details page. where some carousel where image has shown and see some cart where two buttons one is view option and another is edit option. If users click any button, they will see a login page.
-* Now, by clicking any button, the user is taken to the login page. This page is a login page where users can authenticate by email or Gmail. If the user does not log in, they will be directed to the register page, where they will see some input fields. if the user registered successfully. This time, users go to the view or update page.
-* The view page has some data, and you can see the add to cart button. user clicks the button, the cart will show in my cart route. Here, the user deletes the cart in which he selected one.
-* The add product button has some input fields and an add button. Here, the user fields all the valid information and clicks the button. user creates a cart. The user can update information by clicking the update route. The updated route has some field information. The user can update all information.
+-   Upon entering the website, the user is greeted with a homepage that includes a navbar, a banner, six product sections, two additional sections, and a footer.
+* Each banner contains valid data in JSON format. When the user clicks on any brand, they are redirected to the product details page. This page features a carousel to showcase images and a cart section with two buttons: "View" and "Edit." Clicking either button redirects the user to the login page.
+* The login page allows users to authenticate using their email or Gmail account. If the user is not logged in, they will be directed to the registration page, where they can input their details. After successful registration, the user is redirected to either the view or update page.
+* The View page displays product data along with an "Add to Cart" button. When the user clicks the button, the product is added to their cart, which can be accessed via the "My Cart" route. Here, the user can delete items from their cart.
+* The Add Product button allows users to fill out input fields to add a new product. After completing the fields, the user clicks the "Add" button to create a new product. The user can also update product information by clicking the "Update" route, which displays editable fields for updating the information.
 
 ### Live Link: <https://automotive-authentication.web.app/>
 
