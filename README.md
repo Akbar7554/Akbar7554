@@ -30,7 +30,7 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
     <td align="center">🧠 <b>Learning:</b> Next.js & MUI</td>
   </tr>
   <tr>
-    <td align="center">🤝 <b>Open to Collaborations:</b> MERN Stack Projects</td>
+    <td align="center">🤝 <b>Collaborations:</b> MERN Project </td>
   </tr>
   <tr>
     <td align="center">⚽ <b>Hobby:</b> Football</td>
