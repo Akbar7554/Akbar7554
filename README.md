@@ -151,7 +151,6 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
   </p>
 
   <h3>🔥 Demo</h3>
-  <img src="https://i.ibb.co/tD0zHS8/your-image.png" alt="Project Screenshot" width="600" style="width: 800px; height: auto;" />
 
 
   <h3>🏗️ Installation & Setup</h3>
@@ -213,7 +212,6 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
   </p>
 
   <h3>🔥 Demo</h3>
-  <img src="https://via.placeholder.com/600x400.png?text=Vehicle+Management+Screenshot" alt="Project Screenshot" style="max-width:100%; border-radius: 8px;" />
 
   <h3>🏗️ Installation & Setup</h3>
   <pre>
