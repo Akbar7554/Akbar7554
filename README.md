@@ -56,6 +56,7 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
        onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';"
        onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
 </p>
+<hr/>
 
 <h2 align="center">🛠️ My Tech Stack 🛠️</h2>
 
