@@ -57,21 +57,39 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
        onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';" />
 </p>
 
-<div align="center">
 <h2>🛠️ My Tech Stack 🛠️</h2>
-  <table style="width: 100%; border-spacing: 10px;">
-    <tr>
-      <td style="text-align: center; padding: 10px; font-weight: bold;">🌟 Frontend</td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,nextjs" alt="Frontend Skills" /></td>
-      <td style="text-align: center; padding: 10px; font-weight: bold;">⚙️ Backend</td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,firebase" alt="Backend Skills" /></td>
-      <td style="text-align: center; padding: 10px; font-weight: bold;">🧠 Programming Languages</td>
-      <td><img src="https://skillicons.dev/icons?i=js,ts,c,py" alt="Programming Languages" /></td>
-      <td style="text-align: center; padding: 10px; font-weight: bold;">🛠️ Tools & Platforms</td>
-      <td><img src="https://skillicons.dev/icons?i=vercel,github,git,firebase,figma" alt="Tools and Platforms" /></td>
-    </tr>
-  </table>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><strong>🌟 Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,nextjs" alt="Frontend Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚙️ Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,firebase" alt="Backend Skills" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🧠 Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,c,py" alt="Programming Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🛠️ Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel,github,git,firebase,figma" alt="Tools and Platforms" />
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 <div align="center">
 <h2> 🐉 My Contribution 🐉</h2>
