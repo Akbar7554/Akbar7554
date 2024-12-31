@@ -117,6 +117,135 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 <br/>
 
 
+<hr/>
+
+<h2 align="center">🚀 My Popular Projects</h2>
+
+<!-- Project 1: StyleHaven -->
+<div style="border: 2px solid #D3C5E5; border-radius: 10px; padding: 20px; background-color: #2F3C7E; color: #FBEAEB; margin: 30px 0;">
+
+  <h3>🌟 StyleHaven</h3>
+  <p>
+    <strong>StyleHaven</strong> is an e-commerce platform built with the <strong>MERN stack</strong> (MongoDB, Express.js, React.js, Node.js). It provides a smooth shopping experience with product browsing, cart management, and secure user authentication.
+  </p>
+
+  <h3>🛠️ Features</h3>
+  <ul>
+    <li><strong>Product Listing:</strong> Users can browse products and categories.</li>
+    <li><strong>Search & Filter:</strong> Users can search and filter products easily.</li>
+    <li><strong>Cart & Checkout:</strong> Seamless cart functionality and secure checkout.</li>
+    <li><strong>User Authentication:</strong> Secure login/registration with JWT.</li>
+  </ul>
+
+  <h3>🔧 Technologies Used</h3>
+  <ul>
+    <li><strong>React.js</strong> for building the UI</li>
+    <li><strong>Node.js & Express.js</strong> for the server</li>
+    <li><strong>MongoDB</strong> for database management</li>
+    <li><strong>Tailwind CSS</strong> for styling the application</li>
+  </ul>
+
+  <h3>📂 Repository Information</h3>
+  <p>
+    <a href="https://github.com/Akbar7554/StyleHaven">GitHub Repository</a>
+  </p>
+
+  <h3>🔥 Demo</h3>
+  <img src="https://i.ibb.co/tD0zHS8/your-image.png" alt="Project Screenshot" width="600" style="width: 800px; height: auto;" />
+
+
+  <h3>🏗️ Installation & Setup</h3>
+  <pre>
+    <code>
+    # Clone the repository
+    git clone https://github.com/Akbar7554/StyleHaven.git
+
+    # Navigate into the project folder
+    cd StyleHaven
+
+    # Install dependencies
+    npm install
+
+    # Run the server
+    npm run server
+
+    # Run the frontend
+    npm start
+    </code>
+  </pre>
+
+  <h3>📌 How to Contribute</h3>
+  <p>Fork the repository and follow the steps below to contribute:</p>
+  <ul>
+    <li>Create a new branch: <code>git checkout -b feature-name</code></li>
+    <li>Commit your changes: <code>git commit -m 'Add new feature'</code></li>
+    <li>Push to the branch: <code>git push origin feature-name</code></li>
+    <li>Open a Pull Request</li>
+  </ul>
+
+</div>
+
+<!-- Project 2: Vehicle Management -->
+<div style="border: 2px solid #D3C5E5; border-radius: 10px; padding: 20px; background-color: #2F3C7E; color: #FBEAEB; margin: 30px 0;">
+
+  <h3>🌟 Vehicle Management</h3>
+  <p>
+    <strong>Vehicle Management</strong> is a platform that allows users to add, manage, and track vehicles. The system includes features like vehicle data entry, tracking, and searching.
+  </p>
+
+  <h3>🛠️ Features</h3>
+  <ul>
+    <li><strong>Vehicle Registration:</strong> Users can register their vehicles.</li>
+    <li><strong>Search & Track:</strong> Search and track vehicles with specific criteria.</li>
+    <li><strong>Detailed Information:</strong> View detailed information of each vehicle.</li>
+  </ul>
+
+  <h3>🔧 Technologies Used</h3>
+  <ul>
+    <li><strong>React.js</strong> for building the user interface.</li>
+    <li><strong>Node.js & Express.js</strong> for server-side logic and API handling.</li>
+    <li><strong>MongoDB</strong> for data storage.</li>
+  </ul>
+
+  <h3>📂 Repository Information</h3>
+  <p>
+    <a href="https://github.com/Akbar7554/Vehicle-Management">GitHub Repository</a>
+  </p>
+
+  <h3>🔥 Demo</h3>
+  <img src="https://via.placeholder.com/600x400.png?text=Vehicle+Management+Screenshot" alt="Project Screenshot" style="max-width:100%; border-radius: 8px;" />
+
+  <h3>🏗️ Installation & Setup</h3>
+  <pre>
+    <code>
+    # Clone the repository
+    git clone https://github.com/Akbar7554/Vehicle-Management.git
+
+    # Navigate into the project folder
+    cd Vehicle-Management
+
+    # Install dependencies
+    npm install
+
+    # Start the server
+    npm start
+    </code>
+  </pre>
+
+  <h3>📌 How to Contribute</h3>
+  <p>Fork the repository and follow the steps below to contribute:</p>
+  <ul>
+    <li>Create a new branch: <code>git checkout -b feature-name</code></li>
+    <li>Commit your changes: <code>git commit -m 'Add new feature'</code></li>
+    <li>Push to the branch: <code>git push origin feature-name</code></li>
+    <li>Open a Pull Request</li>
+  </ul>
+
+</div>
+
+
+
+
 # Top Projects
 
 ## SURVEY MASTER
