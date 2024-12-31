@@ -127,7 +127,7 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 <hr/>
 
-<h2 align="center">🚀 My Popular Projects</h2>
+<h2 align="center">🔥 My Popular Projects 🔥</h2>
 
 <!-- Project 1: StyleHaven -->
 <div style="border: 2px solid #D3C5E5; border-radius: 10px; padding: 20px; background-color: #2F3C7E; color: #FBEAEB; margin: 30px 0;">
