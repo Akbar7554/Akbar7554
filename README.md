@@ -310,6 +310,5 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 ### Technology that i use : Html, css, tailwind, react, node js, mongodb, express js, firebase
 
-![snake](https://raw.githubusercontent.com/{your-username}/{your-username}/output/github-contribution-snake.svg)
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
