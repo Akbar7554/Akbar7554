@@ -103,7 +103,6 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 <hr/>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
