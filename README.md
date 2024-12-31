@@ -99,12 +99,23 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 
 
-<strong>My GitHub Stats</strong>
-<a href="http://www.github.com/Akbar7554"><img src="https://github-readme-stats.vercel.app/api?username=Akbar7554&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
+<hr/>
 
-<a href="http://www.github.com/Akbar7554"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar7554&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<a href="https://github.com/Akbar7554" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=10b981&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/><br/>
+
+<hr/>
+
+<br/>
+
 
 # Top Projects
 
