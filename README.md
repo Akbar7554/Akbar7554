@@ -6,13 +6,13 @@
 <strong><strong />
 
 <div align="center">
-  <h4 style="font-size: 18px; font-family: Arial, sans-serif;">
+  <p style="font-size: 18px; font-family: Arial, sans-serif;">
 
 CSE graduate with MERN Full-Stack experience, eager to excel in a professional and dynamic environment. 💼 </br>
     I aim to leverage my skills and knowledge while continuously growing and contributing to the organization's success. 🌱 </br>
     As a recent graduate, I am eager to learn and contribute meaningfully to achieving the company's goals. 🎯 </br>
     Let's collaborate and create something amazing together! 🤝
-  </h4>
+  </p>
 </div>
 
 
