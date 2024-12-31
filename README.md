@@ -105,9 +105,9 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 <br>
 
 <p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=react&preferLogin=false&Background=2F3C7E&Text=FBEAEB&Title=D3C5E5&Border=FBEAEB&Ring=C4DFE6">    <img  alt="Akbar7554's GitHub Stats" width="400" src="https://awesome-github-stats.azurewebsites.net/user-stats/Akbar7554?cardType=octocat&theme=react&preferLogin=false&Background=2F3C7E&Text=FBEAEB&Title=D3C5E5&Border=FBEAEB&Ring=C4DFE6" />  </a>
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar7554&stroke=c9d1d9&background=2F3C7E&ring=D3C5E5&fire=A1D6E2&currStreakNum=A1D6E2&currStreakLabel=A1D6E2&Border=FBEAEB&text_color=FBEAEB&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" alt="Akbar7554's Streak" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=D3C5E5&text_color=FBEAEB&icon_color=39d353&bg_color=2F3C7E&Border=FBEAEB&hide_border=false&layout=compact" alt="Akbar7554's Top Languages" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=react&preferLogin=false&Background=2F3C7E&Text=FBEAEB&Title=D3C5E5&Border=FBEAEB&Ring=C4DFE6">    <img  alt="Akbar7554's GitHub Stats" width=400 src="https://awesome-github-stats.azurewebsites.net/user-stats/Akbar7554?cardType=octocat&theme=react&preferLogin=false&Background=2F3C7E&Text=FBEAEB&Title=D3C5E5&Border=FBEAEB&Ring=C4DFE6" />  </a>
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar7554&stroke=c9d1d9&background=2F3C7E&ring=D3C5E5&fire=A1D6E2&currStreakNum=A1D6E2&currStreakLabel=A1D6E2&Border=FBEAEB&text_color=FBEAEB&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" alt="Akbar7554's Streak" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=D3C5E5&text_color=FBEAEB&icon_color=39d353&bg_color=2F3C7E&Border=FBEAEB&hide_border=false&layout=compact" alt="Akbar7554's Top Languages" />
 </p>
 
 
