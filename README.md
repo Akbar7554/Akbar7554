@@ -103,16 +103,16 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
+<p align="center">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=react&preferLogin=false&Background=2F3C7E&Text=FBEAEB&Title=D3C5E5&Border=FBEAEB&Ring=C4DFE6">    <img  alt="Akbar7554's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Akbar7554?cardType=octocat&theme=react&preferLogin=false&Background=2F3C7E&Text=FBEAEB&Title=D3C5E5&Border=FBEAEB&Ring=C4DFE6" />  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar7554&stroke=c9d1d9&background=2F3C7E&ring=D3C5E5&fire=A1D6E2&currStreakNum=A1D6E2&currStreakLabel=A1D6E2&Border=FBEAEB&text_color=FBEAEB&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=false" alt="Akbar7554's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar7554&langs_count=10&title_color=D3C5E5&text_color=FBEAEB&icon_color=39d353&bg_color=2F3C7E&Border=FBEAEB&hide_border=false&layout=compact" alt="Akbar7554's Top Languages" />
+</p>
+
 
 <br/><br/>
 
-<hr/>
 
 <br/>
 
