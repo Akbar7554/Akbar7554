@@ -21,7 +21,7 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
     <td align="center">🌍 <b>Based in:</b> Chittagong</td>
   </tr>
   <tr>
-    <td align="center">💻 <b>Portfolio:</b> <a href="https://my-portfolio-ebon-mu-76.vercel.app/">My Website</a></td>
+    <td align="center">💻 <b>Portfolio:</b> <a href="https://akbar-portfolio-pi.vercel.app/">My Website</a></td>
   </tr>
   <tr>
     <td align="center">🚀 <b>Working on:</b> <a href="http://github.com/Akbar7554/Medi-Vista">Medi-Vista</a></td>
