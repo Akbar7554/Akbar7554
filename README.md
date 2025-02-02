@@ -97,7 +97,8 @@ CSE graduate with MERN Full-Stack experience, eager to excel in a professional a
 <div align="center">
   <h2>🐉 My Contributions 🐉</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akbar7554/Akbar7554/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akbar7554/Akbar7554/output/github-contribution-grid-snake.svg?timestamp=2025" />
+
   
   <br/><br/><br/>
 </div>
